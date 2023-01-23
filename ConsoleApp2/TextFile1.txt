@@ -1,0 +1,5 @@
+﻿UserName:goga@BirthDate:10-Mar-96 00:00:00@City:tbilisi@Age:26@Password:goga1234
+UserName:sandro@BirthDate:04-Dec-02 00:00:00@City:tbilisi@Age:20@Password:sandro1234
+UserName:dato@BirthDate:10-Oct-00 00:00:00@City:tbilisi@Age:22@Password:dato1234
+UserName:irakli@BirthDate:12-Dec-00 00:00:00@City:tbilisi@Age:22@Password:irakli1234
+UserName:miro@BirthDate:01-Jan-00 00:00:00@City:tbili@Age:23@Password:miro1234
